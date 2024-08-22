@@ -1,0 +1,405 @@
+.parent1{
+    opacity: 0.5;
+}
+
+.language_bar{
+    width: 100vw;
+    height: 5vh;
+    background-color: #4d0606;
+    position: absolute;
+    top: 0px;
+    display: flex;    
+}
+.p{
+    position: absolute;
+    left: 20vw;
+    display: flex;
+}
+.p1{
+    color: white;
+    margin-left: 10px;
+    margin-top: 5px;
+    font-size: 15px;
+    cursor: pointer;
+    
+}
+.pa{
+    position: absolute;
+    right: 5vw;
+    display: flex;
+    font-size: 25px;
+}
+
+.p2{
+    color: white;
+    margin-left: 20px;
+    margin-top: 5px;
+    font-size: 18px;
+    cursor: pointer;    
+}
+.navbar1{
+    background-color: rgb(35, 34, 34);
+    width:100vw;
+    height: 15vh;    
+}
+
+.pb{
+    position: relative;
+    left: 0vw;
+    display: flex;
+    margin-left: 0px;
+    top: 50px;   
+}
+.p3{
+    color: white;
+    margin-left: 80px;
+    margin-top: 5px;
+    font-size: 20px;
+    cursor: pointer;    
+}
+.p4{
+    color: white;
+    position: absolute;
+    right: 10vw;
+    margin-top: 5px;
+    font-size: 20px;
+    
+}
+.p5{
+    color: white;
+    position: absolute;
+    right: 13vw;
+    margin-top: 5px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.Advertisment{
+    background-color: rgb(81, 79, 79);
+    width: 40vw;
+    height: 10vh;
+    position: relative;
+    left: 20vw;
+    top: 20px;
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+.Advertisment1{
+    background-color: rgb(236, 229, 229);
+    width: 5vw;
+    height: 10vh;
+    position: absolute;
+    right: 32vw;
+    top: 16.2vh;
+    margin: 20px;
+    background-image: url(Premium-ad-Icon.avif);
+    background-repeat: no-repeat;
+    background-size: 100%,100%;
+
+}
+.iconbar{
+    background-color:black;
+    width: 75%;
+    height: 15vh;
+    position: absolute;
+    top: 34vh;
+    left: 18vw;
+    display: flex;
+    justify-content: space-around;
+}
+.icon1{
+    background-image: url(b.avif);
+    background-size: contain;
+    width: 100px;
+    height: 13vh;
+    border-radius: 50%;
+    border: 1px red solid;
+
+}
+.icon2{
+    background-image: url(A.avif);
+    background-size: contain;
+    width: 100px;
+    height: 13vh;
+    border-radius: 50%;
+    border: 1px red solid;
+
+}
+.icon3{
+    background-image: url( s.avif);
+    background-size: contain;
+    width: 100px;
+    height: 13vh;
+    border-radius: 50%;
+    border: 1px red solid;
+
+}
+.icon4{
+    background-image: url(au.avif);
+    background-size: contain;
+    width: 100px;
+    height: 13vh;
+    border-radius: 50%;
+    border: 1px blue solid;
+
+}
+.icon5{
+    background-image: url(ent.avif);
+    background-size: contain;
+    width: 100px;
+    height: 13vh;
+    border-radius: 50%;
+    border: 1px red solid;
+
+}
+.icon6{
+    background-image: url(D.avif);
+    background-size: contain;
+    width: 100px;
+    height: 13vh;
+    border-radius: 50%;
+    border: 1px red solid;
+
+}
+.icon7{
+    background-image: url(p.avif);
+    background-size: contain;
+    width: 100px;
+    height: 13vh;
+    border-radius: 50%;
+    border: 1px red solid;
+
+}
+.icon8{
+    background-image: url(h.avif);
+    background-size: contain;
+    width: 100px;
+    height: 13vh;
+    border-radius: 50%;
+    border: 1px red solid;
+
+}
+.icon9{
+    background-image: url(u.avif);
+    background-size: contain;
+    width: 100px;
+    height: 13vh;
+    border-radius: 50%;
+    border: 1px red solid;
+
+}
+.explorer{
+    color: white;
+    font-size: 50px;
+    position:absolute;
+    left: 5vw;
+    top: 125px;
+    cursor: pointer;
+
+}
+.sidebar{
+    background-color: black;
+    width: 20vw;
+    height: 500px;
+    position: relative;
+    top: 150px;
+
+}
+.span1{
+    position: relative;
+    left: 5vw;
+    top: 10px;
+    display: flex;
+    margin-top: 20px;
+}
+
+.body{
+    background-color: #af0000;
+    height: 500px;
+    width: 70vw;
+    position: absolute;
+    left: 20vw;
+    top:51vh;
+    border-radius: 5px;
+    
+}
+.body0{
+    display:flex ;
+}
+.body1{
+    height: 580px;
+    width: 500px;
+    background-image: url(Supreme\ court.avif);
+    background-size: 80% 70%;
+    background-repeat: no-repeat;
+    margin: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+    display: inline-block;
+    border-radius: 8px;
+    
+}
+.body2{
+    height: 200px;
+    width: 500px;
+    background-image: url(olympics.png);
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+    margin: 10px;
+    margin-top: 20px;
+    margin-left: 0px;
+    cursor: pointer;
+    
+    border-radius: 8px;    
+}
+.body3{
+    background-image: url(eci.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 200px;
+    width: 500px;
+    cursor: pointer;
+    
+    border-radius: 8px;
+}
+
+.body1:hover{
+    scale: 1.01;
+   
+}
+.body2:hover{
+    scale: 1.01;
+   
+}
+.body3:hover{
+    scale: 1.01;
+   
+}
+.h:hover{
+    scale: 1.1;
+      
+}
+.Advertisment1:hover{
+     border: 3px solid rgb(237, 218, 11);
+     border-radius: 2px;
+     scale: 1.1; 
+}
+.span1:hover{
+    scale: 1.05;    
+}
+.p3:hover{
+    scale: 1.05;
+    color: rgb(255, 166, 0);
+    opacity: 1.2;
+}
+.p4:hover{
+    scale: 1.1;
+    
+}
+.a:hover{
+    scale: 1.3;
+    
+
+}
+.b:hover{
+    scale: 1.3;
+    color: #FF0000;
+
+}
+.c:hover{
+    scale: 1.3;
+    color: rgb(223, 9, 231);
+}
+.body4:hover{
+    scale: 1.1;
+}
+.pr:hover{
+    scale: 1.1;
+    opacity: 0.9;
+}
+
+.bodyA{
+    background-color: #1e1e1e;
+    height: 300px;
+    width: 1049px;
+    margin-top: 165px;
+    position: relative;
+    left: 295px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.body4{
+    
+    height: 150px;
+    width: 190px;
+    margin-top: 25px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.discription{
+    color: whitesmoke;
+    display: block;
+    margin-top: 7px;
+}
+.body5{
+    height: 150px;
+    width: 200px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 15px;
+}
+.bodyA1{
+    background-color: #1e1e1e;
+    height: 300px;
+    width: 1049px;
+    margin-top: 165px;
+    position: relative;
+    left: 295px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.togg1{
+    display: none;
+}
+.form0{
+    display: none;
+}
+.form1{
+    height: 200px;
+    width: 400px;
+    background-color: whitesmoke;
+    position: absolute;
+    top: 18vh;
+    left: 30vw;    
+}
+#username{
+    margin-top: 5px;
+}
+#password{
+    margin-top: 10px;
+    margin-left:48px;
+}
+.label1{
+    margin-left: 5px;
+}
+.label2{
+    margin-top: 5px;
+}
+
+.input{
+    position: relative;
+    width: 130px;
+    left: 91%;
+    bottom: 151.5vh;
+
+}
+
+
+
+
+    
